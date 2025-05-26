@@ -69,5 +69,5 @@ I am passionate about applying machine learning techniques to solve real-world p
 - **GitHub:** [uzzal2200](https://github.com/uzzal2200)
 - **Email:**uzzal.220605@s.pust.ac.bd
 
-Feel free to reach out for collaboration or discussion on any of these projects!
+Feel free to reach out for collaboration or discussion on any of these projects.
 
