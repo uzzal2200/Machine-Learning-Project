@@ -55,9 +55,9 @@ Welcome to my collection of machine learning projects developed during my academ
 
 ## 👨‍🎓 About Me
 
-**Name:** MD Uzzal Mia  
-🎓 **Student at:** Pabna University of Science and Technology (PUST)  
+**Name:** MD Uzzal Mia    
 🏛️ **Department:** Information and Communication Engineering (ICE)  
+🎓 **Student at:** Pabna University of Science and Technology (PUST)
 📍 **Location:** Rajapur, Pabna-6600, Bangladesh  
 
 I am passionate about applying machine learning techniques to solve real-world problems and continuously expanding my knowledge in the field of data science.
